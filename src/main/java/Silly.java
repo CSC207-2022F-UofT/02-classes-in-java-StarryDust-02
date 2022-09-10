@@ -133,8 +133,8 @@ public class Silly implements Comparable<Silly>{
      */
     @Override
     public String toString(){
-        // TODO (Task 3): Implement the body of this method!
-        return null;
+        // TODO (Task 3): Implement the body of this method!\
+        return this.name;
     }
 
     /**
@@ -196,7 +196,6 @@ public class Silly implements Comparable<Silly>{
          *                You can get the length of a string by using the
          *                .length() method.
          */
-        return 1;
     }
 
     /*
